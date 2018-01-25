@@ -3,6 +3,14 @@ body {
 	font-weight: 300;
 	background-color: #808080;
 }
+.fb-like {
+ 	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,0%);
+}
+
+
 .header {
 	height: 500px;
 	background: url('img/header_bg.jpg') no-repeat;
